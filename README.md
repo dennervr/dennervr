@@ -18,4 +18,4 @@
     
 </div>
 
-### Estou atualmente cursando Bacharelado em Sistemas de Informação, e tenho um forte interesse em solucionar desafios, sempre buscando o crescimento. Minha principal área de atuação é o desenvolvimento back-end.
+### Estou atualmente cursando Bacharelado em Sistemas de Informação. Minha principal área de atuação é o desenvolvimento back-end.
